@@ -1,3 +1,8 @@
+
+# HR Attrition Analysis Dashboard
+
+---
+
 <p align="center">
 
 ![MySQL](https://img.shields.io/badge/MySQL-Database-orange?style=for-the-badge&logo=mysql)
@@ -10,10 +15,6 @@
 <p align="center">
 <b>An end-to-end HR Analytics project that analyzes employee attrition patterns using SQL, Excel, and interactive dashboards to identify workforce risks, uncover attrition drivers, and generate actionable retention strategies.</b>
 </p>
-
----
-
-# HR Attrition Analysis Dashboard
 
 ---
 
