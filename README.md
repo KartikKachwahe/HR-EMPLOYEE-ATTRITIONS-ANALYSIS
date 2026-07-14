@@ -427,7 +427,7 @@ HR-Attrition-Analysis
 
 - Data Cleaning
 - Aggregation
-- CASE Statements
+- CASE Statement
 - Workforce Analysis
 
 ### Excel
@@ -436,7 +436,7 @@ HR-Attrition-Analysis
 - Slicers
 - KPI Cards
 - Dashboard Design
-- Interactive Visualizations
+- Interactive Visualization
 
 ### Business Analytics
 
@@ -454,7 +454,7 @@ HR-Attrition-Analysis
 - Deploy dashboards in Power BI
 - Create automated ETL pipelines
 - Add salary and satisfaction analysis
-- Develop real-time HR monitoring dashboards
+- Develop real-time HR monitoring dashboard
 
 ---
 
